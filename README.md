@@ -1,2 +1,2 @@
 # jayneplain
-Go based distribute data processer 
+Go based distributed data processer 
